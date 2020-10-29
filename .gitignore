@@ -20,6 +20,8 @@ var/
 .installed.cfg
 *.egg
 share/python-wheels
+lib64
+pyvenv.cfg
 
 # Installer logs
 pip-log.txt
